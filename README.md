@@ -1,5 +1,8 @@
 # Obsidian Auto-complete
 
+## Requirements:
+Ripgrep
+
 ## Implemented Features
 - [X] Windows support
 - [ ] Unix supoprt
